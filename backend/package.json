@@ -1,0 +1,24 @@
+{
+  "name": "ai-interview-backend",
+  "version": "1.0.0",
+  "description": "Backend API server for AI Interview Coach - OTP and email services",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test-smtp.js"
+  },
+  "keywords": [
+    "otp",
+    "email",
+    "smtp",
+    "authentication"
+  ],
+  "author": "AI Interview Coach",
+  "license": "ISC",
+  "note": "Dependencies are installed in the parent directory. Run 'node server.js' directly or use 'npm run server' from project root.",
+  "dependencies": {
+    "multer": "^2.0.2"
+  }
+}
