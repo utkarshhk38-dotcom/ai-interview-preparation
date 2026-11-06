@@ -24,7 +24,7 @@ A modern interview preparation platform with role-based authentication using Sup
   - Smooth animations
   - Fully responsive
 
-## 📋 Prerequisites
+## � Prerequisites
 
 - Node.js 14 or higher
 - Supabase account
@@ -159,7 +159,7 @@ ai-interview-master/
 | `npm run test:smtp` | Test SMTP configuration |
 | `npm run build` | Build for production |
 
-## 📚 Documentation
+## � Documentation
 
 - [Quick Start Guide](./QUICK_START.md) - Get started quickly
 - [Supabase Setup](./SUPABASE_SETUP.md) - Detailed Supabase configuration
